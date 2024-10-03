@@ -1,3 +1,5 @@
+// cristian daniel tovar suarez 20202673113
+// julian enrique simbaqueba correa 20221673021
 #include "I2C.h"
 #include "ThisThread.h"
 #include "mbed.h"
